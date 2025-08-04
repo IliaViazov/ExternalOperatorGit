@@ -783,7 +783,7 @@
 													"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 1216.387953519821167, 347.217393517494202, 360.0, 155.0 ],
-													"setfilter" : [ 0, 2, 1, 0, 0, 10558.6435546875, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+													"setfilter" : [ 0, 2, 1, 0, 0, 10398.0810546875, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 												}
 
 											}
@@ -812,7 +812,7 @@
 													"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 849.721283793449402, 347.217393517494202, 360.0, 155.0 ],
-													"setfilter" : [ 0, 1, 1, 0, 0, 10558.0, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+													"setfilter" : [ 0, 1, 1, 0, 0, 10398.0, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 												}
 
 											}
@@ -952,7 +952,7 @@
 													"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 417.307704567909241, 291.615391612052917, 360.0, 155.0 ],
-													"setfilter" : [ 0, 2, 1, 0, 0, 10558.6435546875, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+													"setfilter" : [ 0, 2, 1, 0, 0, 10398.0810546875, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 												}
 
 											}
@@ -1053,7 +1053,7 @@
 													"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 50.0, 291.615391612052917, 360.0, 155.0 ],
-													"setfilter" : [ 0, 1, 1, 0, 0, 10558.0, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+													"setfilter" : [ 0, 1, 1, 0, 0, 10398.0, 0.920000016689301, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 												}
 
 											}
@@ -1431,7 +1431,7 @@
 
 											}
  ],
-										"originid" : "pat-214"
+										"originid" : "pat-272"
 									}
 ,
 									"patching_rect" : [ 68.80000102519989, 281.600004196166992, 296.800004422664642, 22.0 ],
@@ -1904,7 +1904,7 @@
 
 											}
  ],
-										"originid" : "pat-216"
+										"originid" : "pat-274"
 									}
 ,
 									"patching_rect" : [ 516.0, 859.0, 72.0, 22.0 ],
@@ -2377,7 +2377,7 @@
 
 											}
  ],
-										"originid" : "pat-218"
+										"originid" : "pat-276"
 									}
 ,
 									"patching_rect" : [ 420.0, 859.0, 72.0, 22.0 ],
@@ -2850,7 +2850,7 @@
 
 											}
  ],
-										"originid" : "pat-220"
+										"originid" : "pat-278"
 									}
 ,
 									"patching_rect" : [ 337.75, 859.0, 72.0, 22.0 ],
@@ -3323,7 +3323,7 @@
 
 											}
  ],
-										"originid" : "pat-222"
+										"originid" : "pat-280"
 									}
 ,
 									"patching_rect" : [ 242.0, 859.0, 72.0, 22.0 ],
@@ -4532,7 +4532,7 @@
 
 							}
  ],
-						"originid" : "pat-212"
+						"originid" : "pat-270"
 					}
 ,
 					"patching_rect" : [ 14.0, 167.0, 48.0, 22.0 ],
@@ -4563,6 +4563,7 @@
 						"classnamespace" : "box",
 						"rect" : [ 454.0, 119.0, 806.0, 698.0 ],
 						"gridsize" : [ 15.0, 15.0 ],
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-1",
@@ -5558,7 +5559,7 @@
 
 											}
  ],
-										"originid" : "pat-226"
+										"originid" : "pat-284"
 									}
 ,
 									"patching_rect" : [ 766.666689515113831, 436.000012993812561, 47.0, 22.0 ],
@@ -6047,7 +6048,7 @@
 
 															}
  ],
-														"originid" : "pat-262"
+														"originid" : "pat-320"
 													}
 ,
 													"patching_rect" : [ 579.0, 401.0, 61.0, 22.0 ],
@@ -6410,7 +6411,7 @@
 
 															}
  ],
-														"originid" : "pat-264"
+														"originid" : "pat-322"
 													}
 ,
 													"patching_rect" : [ 503.0, 401.0, 68.0, 22.0 ],
@@ -6729,8 +6730,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 305.5, 306.0, 255.0, 22.0 ],
-													"text" : "plug_vst3 \"bitcrusher for a little baby cow.vst3\""
+													"patching_rect" : [ 305.5, 306.0, 212.0, 22.0 ],
+													"text" : "plug_vst3 \"vocal formant filter-v1.vst3\""
 												}
 
 											}
@@ -7070,7 +7071,7 @@
 
 															}
  ],
-														"originid" : "pat-266"
+														"originid" : "pat-324"
 													}
 ,
 													"patching_rect" : [ 418.0, 236.0, 61.0, 22.0 ],
@@ -7433,7 +7434,7 @@
 
 															}
  ],
-														"originid" : "pat-268"
+														"originid" : "pat-326"
 													}
 ,
 													"patching_rect" : [ 342.0, 236.0, 68.0, 22.0 ],
@@ -7550,14 +7551,14 @@
 														"subtype" : "Undefined",
 														"embed" : 1,
 														"snapshot" : 														{
-															"pluginname" : "vocal formant filter.vst3info",
-															"plugindisplayname" : "vocal formant filter",
+															"pluginname" : "vocal formant filter-v1.vst3",
+															"plugindisplayname" : "vocal formant filter-v1",
 															"pluginsavedname" : "",
-															"pluginsaveduniqueid" : 1570086430,
+															"pluginsaveduniqueid" : 0,
 															"version" : 1,
 															"isbank" : 0,
 															"isbase64" : 1,
-															"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+															"blob" : "967.VMjLg36....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCMw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnwjLgACMFkUYEkFR0HWaHUFNvHlcM0FR0HWaHoVQFM1Y3TjX3gSLXsVSxHVYYESX3gyZhsVSxDFcIglS1jDdWUVSGIVdIglS1jjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQWRn4DcUcTXxcGZHYWQrI1YvXUV5UEahkGNqkUcIIyU3UULhUGMwX0c5sFR0LiUiI2cFsDZtbEV3UjUgsVTWkEdMIyUrgCahUVRWkUd3vVXgkzTWglaoEFL2YTXxgjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQ2bvvzXIglSzU0QgI2cngjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczDiU5o2ZHUyLVMlb2YUY3.yUkIGR3IVcU0VXpgyZLgla4QFZ2.yU4EjLhgla4QFZPYEV5UTLWYWRxDVZUEiX4gyZYUWRxbEdUEiX0QCaHUibsgTY3.iX10TaHUibsgjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczvFR0LiUiI2cFsDZtbEV3UjUgsVTWkEdMIyUrgCahUVRWkUd3vVXgUzTWglaoEFL2YTXxgjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQ2bqwzXIglSzU0QgI2cngjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczDiU4o2ZHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVTScEZtkVXvbmQggCLWUFNvbzRnomUZMSRn4jMIg1XmcmUisVRn4zcyHDS3bGZHECNVoUZUwFR0HWaHESQFEFLUwFR03RZKECQowzLXMTSyP0TLQCUSwDLpMkS2o2QKgFVxDlb3.CV0AiQhsFMwH1YQckV0QCaHUibsgTLEYTXvTEaHUCQosjc5czRngkLgISUFEFZtkGYng0UXIWUWkEZtMESz4xTLMCSowzchMUS3Q0PMMCRSwjLlMUY3DjKt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
 														}
 ,
 														"snapshotlist" : 														{
@@ -7567,19 +7568,19 @@
 																	"version" : 2,
 																	"minorversion" : 0,
 																	"name" : "vocal formant filter",
-																	"origin" : "vocal formant filter.vst3info",
+																	"origin" : "vocal formant filter-v1.vst3",
 																	"type" : "VST3",
 																	"subtype" : "AudioEffect",
 																	"embed" : 1,
 																	"snapshot" : 																	{
-																		"pluginname" : "vocal formant filter.vst3info",
-																		"plugindisplayname" : "vocal formant filter",
+																		"pluginname" : "vocal formant filter-v1.vst3",
+																		"plugindisplayname" : "vocal formant filter-v1",
 																		"pluginsavedname" : "",
-																		"pluginsaveduniqueid" : 1570086430,
+																		"pluginsaveduniqueid" : 0,
 																		"version" : 1,
 																		"isbank" : 0,
 																		"isbase64" : 1,
-																		"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+																		"blob" : "967.VMjLg36....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCMw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnwjLgACMFkUYEkFR0HWaHUFNvHlcM0FR0HWaHoVQFM1Y3TjX3gSLXsVSxHVYYESX3gyZhsVSxDFcIglS1jDdWUVSGIVdIglS1jjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQWRn4DcUcTXxcGZHYWQrI1YvXUV5UEahkGNqkUcIIyU3UULhUGMwX0c5sFR0LiUiI2cFsDZtbEV3UjUgsVTWkEdMIyUrgCahUVRWkUd3vVXgkzTWglaoEFL2YTXxgjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQ2bvvzXIglSzU0QgI2cngjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczDiU5o2ZHUyLVMlb2YUY3.yUkIGR3IVcU0VXpgyZLgla4QFZ2.yU4EjLhgla4QFZPYEV5UTLWYWRxDVZUEiX4gyZYUWRxbEdUEiX0QCaHUibsgTY3.iX10TaHUibsgjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczvFR0LiUiI2cFsDZtbEV3UjUgsVTWkEdMIyUrgCahUVRWkUd3vVXgUzTWglaoEFL2YTXxgjPhcVRWg0bUYzXqkjLhUVVwDFd3rlXq0jLgQ2bqwzXIglSzU0QgI2cngjcEwlXmAiUYoWUrIVd3rVV0kjLWgWUwHVczDiU4o2ZHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVTScEZtkVXvbmQggCLWUFNvbzRnomUZMSRn4jMIg1XmcmUisVRn4zcyHDS3bGZHECNVoUZUwFR0HWaHESQFEFLUwFR03RZKECQowzLXMTSyP0TLQCUSwDLpMkS2o2QKgFVxDlb3.CV0AiQhsFMwH1YQckV0QCaHUibsgTLEYTXvTEaHUCQosjc5czRngkLgISUFEFZtkGYng0UXIWUWkEZtMESz4xTLMCSowzchMUS3Q0PMMCRSwjLlMUY3DjKt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
 																	}
 ,
 																	"fileref" : 																	{
@@ -7587,61 +7588,7 @@
 																		"filename" : "vocal formant filter_20250713_1.maxsnap",
 																		"filepath" : "~/Documents/Max 9/Snapshots",
 																		"filepos" : -1,
-																		"snapshotfileid" : "22652333306e165d8096a5bbf915e58d"
-																	}
-
-																}
-, 																{
-																	"filetype" : "C74Snapshot",
-																	"version" : 2,
-																	"minorversion" : 0,
-																	"name" : "vocal formant filter",
-																	"origin" : "vocal formant filter.vst3info",
-																	"type" : "VST3",
-																	"subtype" : "AudioEffect",
-																	"embed" : 0,
-																	"fileref" : 																	{
-																		"name" : "vocal formant filter",
-																		"filename" : "vocal formant filter_20250713.maxsnap",
-																		"filepath" : "~/Documents/Max 9/Snapshots",
-																		"filepos" : -1,
-																		"snapshotfileid" : "e48d83290167d472748581f6e7239d21"
-																	}
-
-																}
-, 																{
-																	"filetype" : "C74Snapshot",
-																	"version" : 2,
-																	"minorversion" : 0,
-																	"name" : "vocal formant filter",
-																	"origin" : "vocal formant filter.vst3info",
-																	"type" : "VST3",
-																	"subtype" : "AudioEffect",
-																	"embed" : 0,
-																	"fileref" : 																	{
-																		"name" : "vocal formant filter",
-																		"filename" : "vocal formant filter_20250713_2.maxsnap",
-																		"filepath" : "~/Documents/Max 9/Snapshots",
-																		"filepos" : -1,
-																		"snapshotfileid" : "b9286bd63288a5dbf40a12e458be99b4"
-																	}
-
-																}
-, 																{
-																	"filetype" : "C74Snapshot",
-																	"version" : 2,
-																	"minorversion" : 0,
-																	"name" : "vocal formant filter",
-																	"origin" : "vocal formant filter.vst3info",
-																	"type" : "VST3",
-																	"subtype" : "AudioEffect",
-																	"embed" : 0,
-																	"fileref" : 																	{
-																		"name" : "vocal formant filter",
-																		"filename" : "vocal formant filter_20250713_3.maxsnap",
-																		"filepath" : "~/Documents/Max 9/Snapshots",
-																		"filepos" : -1,
-																		"snapshotfileid" : "ba9ff1d0ae824e25bb8a41a023f17914"
+																		"snapshotfileid" : "efcdd9c5625b0ee57dbc1403db6a2f59"
 																	}
 
 																}
@@ -7804,8 +7751,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 144.5, 236.0, 194.0, 22.0 ],
-													"text" : "plug_vst3 \"vocal formant filter.vst3\""
+													"patching_rect" : [ 144.5, 236.0, 212.0, 22.0 ],
+													"text" : "plug_vst3 \"vocal formant filter-v1.vst3\""
 												}
 
 											}
@@ -8033,7 +7980,7 @@
 
 											}
  ],
-										"originid" : "pat-260"
+										"originid" : "pat-318"
 									}
 ,
 									"patching_rect" : [ 362.666676759719849, 513.000014999999962, 155.0, 22.0 ],
@@ -8413,7 +8360,7 @@
 
 															}
  ],
-														"originid" : "pat-272"
+														"originid" : "pat-330"
 													}
 ,
 													"patching_rect" : [ 579.0, 401.0, 61.0, 22.0 ],
@@ -8776,7 +8723,7 @@
 
 															}
  ],
-														"originid" : "pat-274"
+														"originid" : "pat-332"
 													}
 ,
 													"patching_rect" : [ 503.0, 401.0, 68.0, 22.0 ],
@@ -8836,7 +8783,7 @@
 															"version" : 1,
 															"isbank" : 0,
 															"isbase64" : 1,
-															"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMtj1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+															"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
 														}
 ,
 														"snapshotlist" : 														{
@@ -8858,7 +8805,7 @@
 																		"version" : 1,
 																		"isbank" : 0,
 																		"isbase64" : 1,
-																		"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMtj1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+																		"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
 																	}
 ,
 																	"fileref" : 																	{
@@ -9083,8 +9030,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 305.5, 401.0, 194.0, 22.0 ],
-													"text" : "plug_vst3 \"vocal formant filter.vst3\""
+													"patching_rect" : [ 305.5, 401.0, 212.0, 22.0 ],
+													"text" : "plug_vst3 \"vocal formant filter-v1.vst3\""
 												}
 
 											}
@@ -9436,7 +9383,7 @@
 
 															}
  ],
-														"originid" : "pat-276"
+														"originid" : "pat-334"
 													}
 ,
 													"patching_rect" : [ 418.0, 236.0, 61.0, 22.0 ],
@@ -9799,7 +9746,7 @@
 
 															}
  ],
-														"originid" : "pat-278"
+														"originid" : "pat-336"
 													}
 ,
 													"patching_rect" : [ 342.0, 236.0, 68.0, 22.0 ],
@@ -9923,7 +9870,7 @@
 															"version" : 1,
 															"isbank" : 0,
 															"isbase64" : 1,
-															"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMtj1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+															"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
 														}
 ,
 														"snapshotlist" : 														{
@@ -9945,7 +9892,7 @@
 																		"version" : 1,
 																		"isbank" : 0,
 																		"isbase64" : 1,
-																		"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMtj1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+																		"blob" : "780.VMjLgLv....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TCLw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRncCLWkWPxHFZtkGYnAkUXoWQwbkcIISXoUULhkGNqkUcIIyU3UULhUGMrgTMx0FRkgCLhYWSsgTMx0FR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QCaHUyLVMlb2YzRn4xUXgWQVE1ZQcUV30jLWwFNrIVYIcUV4gCagEVQScEZtkVXvbmQgIGRBI1YIcEVyUkQisVRxHVYYESX3gyZhsVSxDFcysFSikDZNQWUGElb2gFR1UDahcFLVkkdUwlX4gyZYUWRxbEdUEiX0QSLVkmdqgTMyX0XxcmQKglKWgEdEYUXqE0UYgWSxbEa3vlXkkzUYkGNrEVXQM0Un4VZgAycFEFNvbzRn4RahsVSWkkd3.iXqcmUYkVTsgTMx0FRkgCLhYWSsgTMx0FRmcmQiUWRn4DcUcTXxcGZHgVQwHVdIglSzU0QgI2cngTZ3vVX5kzUXoWUrEVcI0FR0LiUiI2cFsDZLISX1kzUXQGNrgTMyX0XxcmQKgFTWkEc3vlXn4VZgAycFEFNvbzRnwjLgACMFkUYAcEV3EUaHUyLVMlb2YUYxgjTg81YsgTMx0FRwTjQgASUrgTMDk1R1o2QKgFVxD1aMYUVn4VdjgFVWgkbUcUVn41TLQmKSUlbHg1X0cWLWkFNVElcUwVX4UjQi8FNrEFZtkGYng0UXIWUWkEZtMESz4xTkIGRnMVcicUVxgCLh41ZrkkdIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
 																	}
 ,
 																	"fileref" : 																	{
@@ -10070,7 +10017,7 @@
 															"version" : 1,
 															"isbank" : 0,
 															"isbase64" : 1,
-															"blob" : "480.VMjLgbc....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyM13hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRngjUZoGNEk0ZAczXtkDZNYSRnM1Y2Y0XqkDZNkGRosjc5czRnYlUZ01YwbkcEEiX4gyZYgWUVIFZtkGYng0UXIWUWkEZtkFS1MiPLgycngzbqYDYn4VdjgFVWgkbUcUVn41PLQmKSUlbHgmXmAiQhIWUrI1YQcUVkkzUYoVUxfkdqESXzkDZNYSRnM1Y2Y0XqkDZNY2LBwDN2gFR5cFahsVSGoEZtkGYng0UXIWUWkEZtMDSz4xTkIGRnM1azXEYxgSUXMGNVMFcQ0FR0HWaHESQFEFLUwFR03RZKYmdGsDZXckVzs1QgUVVxDlbIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+															"blob" : "487.VMjLg3c....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HCNw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRngjUZoGNEk0ZAczXtkDZNYSRnM1Y2Y0XqkDZNkGRosjc5czRnYlUZ01YwbkcEEiX4gyZYgWUVIFZtkGYng0UXIWUWkEZtMES14xPLY2LBwDN2gFRyslQjgla4QFZXcEVxU0UYglaCwDcTMUYxgDdhcFLFIlbUwlXmE0UYUVRWkkZUICV5sVLgQWRn4jMIg1XmcmUisVRn4jcyHDS3bGZHo2YrI1ZMcjVn4VdjgFVWgkbUcUVn41PLQmKSwDN2gFRwrFagQycwb0YvDSXvPiQigla4QFZXcEVxU0UYglaCwDctLUS3bGZHEyZrEFM2EyUwfiQggla4QFZXcEVxU0UYglaCwDctLUY3DjKt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
 														}
 ,
 														"snapshotlist" : 														{
@@ -10092,7 +10039,7 @@
 																		"version" : 1,
 																		"isbank" : 0,
 																		"isbase64" : 1,
-																		"blob" : "480.VMjLgbc....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyM13hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRngjUZoGNEk0ZAczXtkDZNYSRnM1Y2Y0XqkDZNkGRosjc5czRnYlUZ01YwbkcEEiX4gyZYgWUVIFZtkGYng0UXIWUWkEZtkFS1MiPLgycngzbqYDYn4VdjgFVWgkbUcUVn41PLQmKSUlbHgmXmAiQhIWUrI1YQcUVkkzUYoVUxfkdqESXzkDZNYSRnM1Y2Y0XqkDZNY2LBwDN2gFR5cFahsVSGoEZtkGYng0UXIWUWkEZtMDSz4xTkIGRnM1azXEYxgSUXMGNVMFcQ0FR0HWaHESQFEFLUwFR03RZKYmdGsDZXckVzs1QgUVVxDlbIglS1jDZic1cVM1ZIglS1MiPLgCLG4hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C."
+																		"blob" : "487.VMjLg3c....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HCNw3hMIg2UkETahsVSWkkdqYTVn4VZHgGMrgUcIIzRngjUZoGNEk0ZAczXtkDZNYSRnM1Y2Y0XqkDZNkGRosjc5czRnYlUZ01YwbkcEEiX4gyZYgWUVIFZtkGYng0UXIWUWkEZtMES14xPLY2LBwDN2gFRyslQjgla4QFZXcEVxU0UYglaCwDcTMUYxgDdhcFLFIlbUwlXmE0UYUVRWkkZUICV5sVLgQWRn4jMIg1XmcmUisVRn4jcyHDS3bGZHo2YrI1ZMcjVn4VdjgFVWgkbUcUVn41PLQmKSwDN2gFRwrFagQycwb0YvDSXvPiQigla4QFZXcEVxU0UYglaCwDctLUS3bGZHEyZrEFM2EyUwfiQggla4QFZXcEVxU0UYglaCwDctLUY3DjKt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
 																	}
 ,
 																	"fileref" : 																	{
@@ -10170,8 +10117,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 144.5, 236.0, 194.0, 22.0 ],
-													"text" : "plug_vst3 \"vocal formant filter.vst3\""
+													"patching_rect" : [ 144.5, 236.0, 212.0, 22.0 ],
+													"text" : "plug_vst3 \"vocal formant filter-v1.vst3\""
 												}
 
 											}
@@ -10399,7 +10346,7 @@
 
 											}
  ],
-										"originid" : "pat-270"
+										"originid" : "pat-328"
 									}
 ,
 									"patching_rect" : [ 94.666674852371216, 513.000014999999962, 155.0, 22.0 ],
@@ -10830,7 +10777,7 @@
 
 															}
  ],
-														"originid" : "pat-282"
+														"originid" : "pat-340"
 													}
 ,
 													"patching_rect" : [ 661.0, 190.0, 86.5, 22.0 ],
@@ -11205,7 +11152,7 @@
 
 															}
  ],
-														"originid" : "pat-284"
+														"originid" : "pat-342"
 													}
 ,
 													"patching_rect" : [ 558.0, 190.0, 86.5, 22.0 ],
@@ -11609,7 +11556,7 @@
 
 											}
  ],
-										"originid" : "pat-280"
+										"originid" : "pat-338"
 									}
 ,
 									"patching_rect" : [ 362.666676759719849, 441.0, 77.0, 22.0 ],
@@ -12052,7 +11999,7 @@
 
 															}
  ],
-														"originid" : "pat-288"
+														"originid" : "pat-346"
 													}
 ,
 													"patching_rect" : [ 646.0, 175.0, 86.5, 22.0 ],
@@ -12427,7 +12374,7 @@
 
 															}
  ],
-														"originid" : "pat-290"
+														"originid" : "pat-348"
 													}
 ,
 													"patching_rect" : [ 543.0, 175.0, 86.5, 22.0 ],
@@ -12831,7 +12778,7 @@
 
 											}
  ],
-										"originid" : "pat-286"
+										"originid" : "pat-344"
 									}
 ,
 									"patching_rect" : [ 94.666674852371216, 441.0, 77.0, 22.0 ],
@@ -13370,7 +13317,7 @@
 
 															}
  ],
-														"originid" : "pat-294"
+														"originid" : "pat-352"
 													}
 ,
 													"patching_rect" : [ 395.750002999999992, 101.0, 90.0, 22.0 ],
@@ -13930,7 +13877,7 @@
 
 											}
  ],
-										"originid" : "pat-292"
+										"originid" : "pat-350"
 									}
 ,
 									"patching_rect" : [ 362.666676759719849, 365.666651750465405, 97.0, 22.0 ],
@@ -14250,7 +14197,7 @@
 
 																			}
  ],
-																		"originid" : "pat-300"
+																		"originid" : "pat-358"
 																	}
 ,
 																	"patching_rect" : [ 190.599999999999994, 273.56488037109375, 61.0, 22.0 ],
@@ -14614,7 +14561,7 @@
 
 															}
  ],
-														"originid" : "pat-298"
+														"originid" : "pat-356"
 													}
 ,
 													"patching_rect" : [ 178.0, 103.0, 121.0, 22.0 ],
@@ -14914,7 +14861,7 @@
 
 																			}
  ],
-																		"originid" : "pat-304"
+																		"originid" : "pat-362"
 																	}
 ,
 																	"patching_rect" : [ 190.599999999999994, 273.56488037109375, 61.0, 22.0 ],
@@ -15278,7 +15225,7 @@
 
 															}
  ],
-														"originid" : "pat-302"
+														"originid" : "pat-360"
 													}
 ,
 													"patching_rect" : [ 42.5, 103.0, 121.0, 22.0 ],
@@ -15466,7 +15413,7 @@
 
 											}
  ],
-										"originid" : "pat-296"
+										"originid" : "pat-354"
 									}
 ,
 									"patching_rect" : [ 362.666676759719849, 302.435119880790694, 203.0, 22.0 ],
@@ -15786,7 +15733,7 @@
 
 																			}
  ],
-																		"originid" : "pat-310"
+																		"originid" : "pat-368"
 																	}
 ,
 																	"patching_rect" : [ 190.599999999999994, 273.56488037109375, 61.0, 22.0 ],
@@ -16150,7 +16097,7 @@
 
 															}
  ],
-														"originid" : "pat-308"
+														"originid" : "pat-366"
 													}
 ,
 													"patching_rect" : [ 192.0, 100.0, 121.0, 22.0 ],
@@ -16498,7 +16445,7 @@
 
 																			}
  ],
-																		"originid" : "pat-314"
+																		"originid" : "pat-372"
 																	}
 ,
 																	"patching_rect" : [ 190.599999999999994, 273.56488037109375, 61.0, 22.0 ],
@@ -16862,7 +16809,7 @@
 
 															}
  ],
-														"originid" : "pat-312"
+														"originid" : "pat-370"
 													}
 ,
 													"patching_rect" : [ 50.0, 100.0, 121.0, 22.0 ],
@@ -17002,7 +16949,7 @@
 
 											}
  ],
-										"originid" : "pat-306"
+										"originid" : "pat-364"
 									}
 ,
 									"patching_rect" : [ 94.416674971580505, 302.435119880790694, 165.0, 22.0 ],
@@ -17692,7 +17639,7 @@
 
 															}
  ],
-														"originid" : "pat-318"
+														"originid" : "pat-376"
 													}
 ,
 													"patching_rect" : [ 395.750002999999992, 101.0, 90.0, 22.0 ],
@@ -18252,7 +18199,7 @@
 
 											}
  ],
-										"originid" : "pat-316"
+										"originid" : "pat-374"
 									}
 ,
 									"patching_rect" : [ 94.666674852371216, 365.666651750465405, 97.0, 22.0 ],
@@ -18682,7 +18629,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 627.0, 100.0, 851.0, 849.0 ],
+										"rect" : [ 627.0, 100.0, 851.0, 771.0 ],
 										"gridsize" : [ 15.0, 15.0 ],
 										"boxes" : [ 											{
 												"box" : 												{
@@ -19675,7 +19622,7 @@
 
 															}
  ],
-														"originid" : "pat-322"
+														"originid" : "pat-380"
 													}
 ,
 													"patching_rect" : [ 317.800000000000011, 125.0, 113.5, 22.0 ],
@@ -20256,7 +20203,7 @@
 
 											}
  ],
-										"originid" : "pat-320"
+										"originid" : "pat-378"
 									}
 ,
 									"patching_rect" : [ 992.333342909812927, 368.0000079870224, 103.0, 22.0 ],
@@ -20685,7 +20632,7 @@
 
 							}
  ],
-						"originid" : "pat-224"
+						"originid" : "pat-282"
 					}
 ,
 					"patching_rect" : [ 16.5, 125.0, 43.0, 22.0 ],
@@ -21288,7 +21235,7 @@
 
 							}
  ],
-						"originid" : "pat-362"
+						"originid" : "pat-420"
 					}
 ,
 					"patching_rect" : [ 16.5, 88.0, 50.0, 22.0 ],
@@ -21470,7 +21417,7 @@
 
 			}
  ],
-		"originid" : "pat-210",
+		"originid" : "pat-268",
 		"parameters" : 		{
 			"obj-11" : [ "multislider[4]", "multislider", 0 ],
 			"obj-12" : [ "multislider[5]", "multislider", 0 ],
