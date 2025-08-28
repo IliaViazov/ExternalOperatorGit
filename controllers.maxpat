@@ -10,9 +10,21 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 256.0, 100.0, 640.0, 480.0 ],
+		"rect" : [ 352.0, 130.0, 640.0, 738.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 682.833349943161011, 292.000008702278137, 323.0, 22.0 ],
+					"text" : "0. 0. 0. 0. 0. 0. 0. 0. 0. 0."
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-49",
 					"linecount" : 2,
@@ -52,7 +64,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 13.0,
 					"id" : "obj-41",
-					"items" : [ "Драйвер IAC Канал передачи 1", ",", "Драйвер IAC Bus 2", ",", "Драйвер IAC Bus 3", ",", "Драйвер IAC Bus 4", ",", "to Max 1", ",", "to Max 2" ],
+					"items" : [ "Драйвер IAC Канал передачи 1", ",", "Драйвер IAC Bus 2", ",", "Драйвер IAC Bus 3", ",", "Драйвер IAC Bus 4", ",", "USB MIDI Device", ",", "SoftStep Control Surface", ",", "SoftStep Expander", ",", "to Max 1", ",", "to Max 2" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -678,7 +690,7 @@
 
 															}
  ],
-														"originid" : "pat-370"
+														"originid" : "pat-146"
 													}
 ,
 													"patching_rect" : [ 711.533333333333303, 231.0, 131.0, 22.0 ],
@@ -923,7 +935,7 @@
 
 															}
  ],
-														"originid" : "pat-372"
+														"originid" : "pat-148"
 													}
 ,
 													"patching_rect" : [ 543.533333333333303, 231.0, 131.0, 22.0 ],
@@ -1168,7 +1180,7 @@
 
 															}
  ],
-														"originid" : "pat-374"
+														"originid" : "pat-150"
 													}
 ,
 													"patching_rect" : [ 382.533333333333246, 231.0, 131.0, 22.0 ],
@@ -1413,7 +1425,7 @@
 
 															}
  ],
-														"originid" : "pat-376"
+														"originid" : "pat-152"
 													}
 ,
 													"patching_rect" : [ 215.0, 231.0, 131.0, 22.0 ],
@@ -1658,7 +1670,7 @@
 
 															}
  ],
-														"originid" : "pat-378"
+														"originid" : "pat-154"
 													}
 ,
 													"patching_rect" : [ 46.0, 231.0, 131.0, 22.0 ],
@@ -1856,7 +1868,7 @@
 
 											}
  ],
-										"originid" : "pat-368"
+										"originid" : "pat-144"
 									}
 ,
 									"patching_rect" : [ 246.500000388072976, 224.640116061767571, 75.0, 22.0 ],
@@ -2181,7 +2193,7 @@
 
 															}
  ],
-														"originid" : "pat-382"
+														"originid" : "pat-158"
 													}
 ,
 													"patching_rect" : [ 715.533333333333303, 213.0, 131.0, 22.0 ],
@@ -2426,7 +2438,7 @@
 
 															}
  ],
-														"originid" : "pat-384"
+														"originid" : "pat-160"
 													}
 ,
 													"patching_rect" : [ 547.533333333333303, 213.0, 131.0, 22.0 ],
@@ -2671,7 +2683,7 @@
 
 															}
  ],
-														"originid" : "pat-386"
+														"originid" : "pat-162"
 													}
 ,
 													"patching_rect" : [ 386.533333333333246, 213.0, 131.0, 22.0 ],
@@ -2916,7 +2928,7 @@
 
 															}
  ],
-														"originid" : "pat-388"
+														"originid" : "pat-164"
 													}
 ,
 													"patching_rect" : [ 219.0, 213.0, 131.0, 22.0 ],
@@ -3161,7 +3173,7 @@
 
 															}
  ],
-														"originid" : "pat-390"
+														"originid" : "pat-166"
 													}
 ,
 													"patching_rect" : [ 50.0, 213.0, 131.0, 22.0 ],
@@ -3359,7 +3371,7 @@
 
 											}
  ],
-										"originid" : "pat-380"
+										"originid" : "pat-156"
 									}
 ,
 									"patching_rect" : [ 129.500000388072976, 224.640116061767571, 68.0, 22.0 ],
@@ -3613,7 +3625,7 @@
 
 							}
  ],
-						"originid" : "pat-366"
+						"originid" : "pat-142"
 					}
 ,
 					"patching_rect" : [ 38.0, 332.000006856697041, 128.0, 22.0 ],
@@ -3856,8 +3868,17 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-3", 1 ],
+					"order" : 0,
+					"source" : [ "obj-20", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-47", 0 ],
 					"midpoints" : [ 581.5, 282.0, 581.5, 282.0 ],
+					"order" : 1,
 					"source" : [ "obj-20", 0 ]
 				}
 
@@ -4161,9 +4182,7 @@
 
 			}
  ],
-		"originid" : "pat-364",
-		"dependency_cache" : [  ],
-		"autosave" : 0
+		"originid" : "pat-140"
 	}
 
 }
